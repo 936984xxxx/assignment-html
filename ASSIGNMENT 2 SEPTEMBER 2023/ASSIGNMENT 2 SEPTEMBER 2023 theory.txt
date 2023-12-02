@@ -1,0 +1,28 @@
+                                                                 ASSIGNMENT 2 SEPTEMBER 2023
+
+SOLUTION 1:  In folder...
+
+SOLUTION 2:
+Comments in HTML serve as non-rendered text that provides information about the code for human readers.
+They are useful for documenting your code, explaining its purpose, making notes, or temporarily disabling parts
+of the code without deleting them. Comments are ignored by browsers and do not affect the rendering of the
+webpage.
+
+SOLUTION 3:  In folder.....
+
+SOLUTION 4: 
+Paragraph tag: An HTML tag is a snippet of code enclosed within angle brackets ("<" and ">") that defines the purpose and
+         structure of a specific element on a webpage. Tags are used to instruct the 
+         web browser how to display the             
+content they enclose. Tags usually come in pairs: an opening tag and a closing tag, with the name of the
+element enclosed within the tags.
+Example: paragraph tag(<p>,</p>)
+
+Element tag: An HTML element is a complete unit that includes an opening tag, content, and a closing tag. It represents a
+distinct part of a webpage's content or structure. Elements are composed of tags and the content enclosed
+between those tags.
+ EXAMPLE: paragraph tag(<p>,</p>)
+
+SOLUTION 5: The DOCTYPE declaration in HTML is a special instruction placed at the beginning of an HTML document to
+specify the version of HTML being used. It ensures proper rendering and parsing by web browsers. The most
+common declaration, <!DOCTYPE html>, indicates the use of HTML5, the latest version of HTML.
